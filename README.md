@@ -1,4 +1,4 @@
-# Oblig4
+# Legesystem
 Obligatorisk oppgave hvor jeg laget et sammensatt system for leger, pasienter, legemidler og resepter. 
 
 Konsepter:
